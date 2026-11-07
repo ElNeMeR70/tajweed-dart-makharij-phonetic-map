@@ -1,0 +1,5 @@
+name: tajweed_dart_makharij_phonetic_map
+description: "17 Articulation Points (Makharij) & Sifat Feature Matrix"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
